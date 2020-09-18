@@ -15,5 +15,5 @@
 - Javascript
 - Html/CSS
 
-some of my work : <arabcanadanews.ca> ,
-template : <blankety-sashes.000webhostapp.com>
+some of my work : arabcanadanews.ca ,
+template : blankety-sashes.000webhostapp.com
